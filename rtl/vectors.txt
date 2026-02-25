@@ -1,0 +1,17 @@
+// =============================================================================
+// PMRC: Simulation Data Vector File (vectors.txt)
+// Copyright (c) 2026 Jonathan Alan Reed
+// =============================================================================
+//
+// INSTRUCTIONS:
+// 1. Run 'pmrc_golden_model.py' to generate test parameters.
+// 2. Copy the "HEX CHUNKS" output from the Python model terminal.
+// 3. Paste that data below, replacing any existing values.
+//
+// COMPILATION:
+// This file must reside in the same directory as the hardware source:
+// - pmrc_test_bench.sv
+// - pmrc_axi_core_parallel_tree.sv
+// =============================================================================
+
+// PASTE HEX DATA BELOW
