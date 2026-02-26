@@ -3,7 +3,8 @@
  * Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
  *
  * Module: pmrc_test_bench.sv (Hardware Testbench)
- * Environment: Compile with pmrc_axi_core_parallel_tree.sv and vectors.txt
+ * Environment: Compile with pmrc_axi_core_parallel_tree.sv 
+ * Include: vectors.txt
  * Description: Verification environment for the pmrc_axi_wrapper.
  * Reports reconstructed results and algorithmic layers (log2 k)
  * to maintain parity with the Parallel MRC manuscript.
@@ -98,5 +99,6 @@ module pmrc_test_bench();
         .m_axis_tready(m_axis_tready),
         .m_axis_tdata(m_axis_tdata)
     );
+
 
 endmodule
