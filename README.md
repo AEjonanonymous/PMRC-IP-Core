@@ -4,7 +4,7 @@
 The **PMRC-IP-Core** is a high-performance hardware and software intellectual property package. It resolves the critical $O(k^2)$ sequential bottleneck in Mixed-Radix Conversion by fundamentally re-deriving the MRC equations into an independent summation structure. This reduces computational latency to a logarithmic scale, enabling real-time commercial deployment of FHE solutions.
 
 <p align="center">
-  <img src="docs/architecture_diagram.png" width="700" alt="PMRC Architecture Diagram">
+  <img src="docs/pmrc_diagram.png" width="700" alt="PMRC Architecture Diagram">
 </p>
 
 ## 📈 Key Mathematical Breakthroughs
