@@ -1,5 +1,8 @@
-# 🚀 PMRC-IP-Core: Parallel Mixed-Radix Conversion IP
-### The $$O(\log k)$$ Architectural Breakthrough for Fully Homomorphic Encryption
+<h1 align="center">🚀 PMRC-IP-Core: Parallel Mixed-Radix Conversion IP</h1>
+
+<p align="center">
+  <h3 align="center">The $$O(\log k)$$ Architectural Breakthrough for Fully Homomorphic Encryption</h3>
+</p>
 
 The **PMRC-IP-Core** is a high-performance hardware and software intellectual property package. It resolves the critical $O(k^2)$ sequential bottleneck in Mixed-Radix Conversion by fundamentally re-deriving the MRC equations into an independent summation structure. This reduces computational latency to a logarithmic scale, enabling real-time commercial deployment of FHE solutions.
 
@@ -27,7 +30,7 @@ The **PMRC-IP-Core** is a high-performance hardware and software intellectual pr
 * **`pmrc_test_bench.cpp`**: Software verification suite for performance benchmarking.
 
 ### PMRC-Golden Model (Architectural Reference)
-* **`pmrc_golden_model.py`**: The "Source of Truth" script for parameter generation and bit-accurate vector creation.
+* **`pmrc_golden_model.py`**: Used to generate the precomputed LUT constants and high-precision verification vectors needed to validate bit-accurate hardware/software parity. 
 
 ### The Manuscript
 * **`MRC_Algorithm_IEEE_TC.pdf`**: Formal paper detailing the mathematical proof and complexity analysis.
