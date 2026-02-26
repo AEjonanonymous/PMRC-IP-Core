@@ -23,7 +23,7 @@ The **PMRC-IP-Core** is a high-performance hardware and software intellectual pr
 * **`pmrc_axi_wrapper.sv`**: Industry-standard AXI4-Stream interface with flight-count FIFO.
 * **`pmrc_parallel_tree.sv`**: The core recursive parallel prefix tree engine.
 * **`pmrc_test_bench.sv`**: Hardware verification suite for RTL simulation.
-* **`vectors.txt`**: A placeholder file for simulation data. 
+* **`vectors.txt`**: Simulation data vector file.
 
 ### PMRC-Host (Software Layer)
 * **`pmrc.hpp`**: High-performance, **header-only** C++ library with custom BigInt arithmetic.
