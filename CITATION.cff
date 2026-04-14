@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - family-names: "Reed"
+    given-names: "Jonathan ƒ(n)"
+title: "Proof of a Parallel Mixed-Radix Conversion Algorithm for Accelerating Fully Homomorphic Encryption"
+version: 1.0.0
+doi: 10.5281/zenodo.18779872
+date-released: 2026-02-26
