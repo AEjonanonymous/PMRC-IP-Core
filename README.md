@@ -48,4 +48,4 @@ The **PMRC-IP-Core** is available for commercial licensing, including options fo
 Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmail.com)
 
 ---
-*Copyright © 2026 Jonathan Alan Reed. Software provided under AGPL-3.0. Commercial use requires a separate license agreement.*
+*Copyright © 2026 Jonathan $f(n)$ Reed. 
